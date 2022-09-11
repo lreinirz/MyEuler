@@ -1,0 +1,3 @@
+from time import process_time
+
+print("Process time: " + str(process_time() * 1000) + " ms.")
